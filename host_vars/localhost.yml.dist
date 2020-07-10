@@ -34,7 +34,6 @@ cask_apps:
   - citrix-workspace
   - google-drive-file-stream
   - rescuetime
-  - transmit
 
 app_store_apps:
   - 497799835 # Xcode
